@@ -1,0 +1,16 @@
+.form_div {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.form_div input {
+    border: 2px solid green;
+    width: 350px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.form_div button {
+    width: 90px;
+}
